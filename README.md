@@ -1,3 +1,3 @@
-# Learn-Pakacge-Managment
+# Learn-Pakage-Managment
 Azure DevOps Lab
 Java Package Managment
